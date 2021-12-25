@@ -1,0 +1,1 @@
+This is query file (.sql) import with your database software for getting table form.
